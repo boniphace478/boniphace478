@@ -1,12 +1,4 @@
-<div align="center">
-  <img src="assets/davevad93.gif" width=875>
-  <hr>
-  <a href="https://github.com/davevad93"><img src="https://komarev.com/ghpvc/?username=davevad93&color=brightgreen&style=for-the-badge"/><a/>
-  <a href="./LICENSE"><img src="https://img.shields.io/github/license/davevad93/davevad93?style=for-the-badge&color=brightgreen"/></a>
-  <a href=README.it.md><img src="assets/it.svg" width=190></a>
-  <a href=README.es.md><img src="assets/es.svg" width=188></a>
-  <hr>
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davevad93&theme=matrix&rank=-C" alt="davevad93"/></a></p>
+
 </div>  
 
 <hr>
